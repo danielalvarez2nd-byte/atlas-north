@@ -12,4 +12,5 @@ Static, GitHub Pages-ready storefront for Atlas North Professional Documentation
 ## Notes
 
 - The product examples in the package are fictional and intended for orientation only.
-- The page is built to deploy as a plain static site from the repository root.
+- The page now links directly to the live Payhip catalog for checkout and digital delivery.
+- The site is built to deploy as a plain static site from the repository root.
