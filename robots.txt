@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danielalvarez2nd-byte.github.io/atlas-north/sitemap.xml
